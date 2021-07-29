@@ -16,7 +16,4 @@ public class SkirtHanger extends Hanger {
             up = c;
         }else {throw new NotEmptyHanger();}
     }
-
-
-
 }
